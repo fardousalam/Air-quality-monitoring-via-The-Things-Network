@@ -1,2 +1,3 @@
-# Air-quality-monitoring-via-The-Things-Network
-Continous Air quality Monitoring through TTN using arduino, dragino schield, Raspberry pi, dust sensor.
+# Air quality monitoring via The Things Network(TTN)
+
+This project is conducted in Hochschule Ravensburg Weingarten in Summer 2018 as a study requirements of Embedded Project. 
